@@ -17,6 +17,7 @@ school-lab-management-plan/
 ├── roles_assignment.md   # Member roles and responsibility matrix (Group of 8)
 └── screenshots/          # Execution proof and output captures
 
+
 ## Summary of Objectives & Tasks
 1. **Task 1: Bash/PowerShell Scripting** - Automated system identity, OS, and disk utilization diagnostic collector.
 2. **Task 2: Firewall Rule Design** - Principle of Least Privilege filtering matrix protecting web server resources and internal workstations.
